@@ -1,6 +1,5 @@
 # Hey! Welcome to my profile! How is it going?👋😎
 
-- 💻 Node, ReactJS, React Native, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
 #### Programing 
