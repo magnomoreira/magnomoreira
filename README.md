@@ -3,7 +3,7 @@
 - ✨ Learning is continuous and there will always be a next level
 
 #### Programing 
-
+!<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" /></code>
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
